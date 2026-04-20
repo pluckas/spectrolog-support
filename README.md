@@ -10,6 +10,14 @@ Spectro Log helps organise spectroscopy targets, observations, and notes.
 
 ---
 
+## Disclaimer
+SpectroLog is provided for informational and observational purposes only.  
+No warranty is made regarding the accuracy, completeness, or reliability of any data displayed or managed by the application.  
+The software may contain errors or defects, and the developer accepts no liability for any loss or consequences arising from its use.  
+Users are responsible for verifying all information before relying on it for scientific or observational purposes.
+
+---
+
 ## Download
 
 Coming soon
