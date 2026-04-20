@@ -10,7 +10,7 @@ SpectroLog is a macOS application for managing and organising astronomical spect
 
 It allows users to store target information, log observations, and review observational history in a structured and searchable way.
 
-The application is designed for local use and does not require user accounts or cloud-based storage.Spectro Log helps organise spectroscopy targets, observations, and notes.
+The application is designed for local use and does not require user accounts or cloud-based storage.
 
 ---
 
